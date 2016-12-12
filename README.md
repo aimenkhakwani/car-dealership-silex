@@ -12,6 +12,7 @@ _This site takes user input and filters through to find car matches the fit the 
 ##Setup and Installation
 
 * _Clone from GitHub_
+* _Run [composer install] from root directory_
 * _Run MAMP pointing to web folder_
 * _Navigate to localhost_
 
